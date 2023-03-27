@@ -1,0 +1,16 @@
+html {
+ margin: 0;
+ padding: 0;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 1.2em;
+}
+
+header {
+    background-color: rgba(255, 0, 0, 0.828);
+    display:flex;
+    justify-content: space-between;
+}
+
+.menu {
+
+}
